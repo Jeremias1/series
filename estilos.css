@@ -1,0 +1,148 @@
+header {
+    background-image: url(imagenes/header.jpg);
+    background-repeat: no-repeat;
+    height: 563px;
+}
+header{
+  display: block;
+}
+main {
+    background-color: #fff;
+    width: 900px;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+main {
+    display: block;
+}
+article.destacado {
+    background-color: #e6f3ed;
+    padding: 15px 23px;
+    border: 1px solid #8de4bc;
+    padding-bottom: 25px;
+    border-radius: 20px;
+    border: 1px solid #8de4bc;
+}
+article {
+    margin-bottom: 40px;
+}
+article {
+    display: block;
+
+}
+article.destacado a {
+    color: #f74d0f;
+  }
+section {
+    padding: 0 40px;
+    padding-top: 20px;
+}
+section {
+    display: block;
+}
+img {
+    margin-top: 20px;
+    border-radius: 23px;
+}
+h2, h3 {
+    color: #EE5A24;
+}
+h2 {
+    font-style: bold;
+}
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+article.secundario {
+    overflow: auto;
+}
+article {
+    margin-bottom: 40px;
+}
+article {
+    display: block;
+}
+article.secundario img {
+    float: right;
+    margin-left: 30px;
+    margin-top: 0px;
+}
+img {
+    margin-top: 20px;
+    border-radius: 23px;
+}
+a {
+    color: #14ADE4;
+    text-decoration: none;
+}
+body {
+    background: rgb(0,254,254);
+    background: linear-gradient(180deg, rgba(0,254,254,1) 0%, rgba(0,104,55,1) 100%);
+    font-family: 'Open Sans', sans-serif;
+  }
+body {
+    display: block;
+    margin: 8px;
+    margin-top: 8px;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    margin-left: 8px;
+}
+html {
+    color: -internal-root-color;
+}
+a.btn, input {
+    background: #EE5A24;
+    color: #ffffff;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+  h1 {
+    height: 53px;
+    color: #fff;
+    background: rgba(0,104,55,0.8);
+    padding: 8px 14px 0px 15px;
+    display: inline-block;
+    position: relative;
+    left: 0px;
+    top: 430px;
+}
+footer p {
+    padding-top: 34px;
+    margin-left: 40px;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+footer {
+    background-color: #000000;
+    color: #fff;
+    height: 90px;
+}
+footer {
+    display: block;
+}
+footer p {
+    padding-top: 34px;
+    margin-left: 40px;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
